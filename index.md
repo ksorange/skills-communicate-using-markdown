@@ -6,3 +6,6 @@ Ep so, dees offurtunity meebi for you. If dis sounds interesting, please emel us
 ### Tengs.
 
 ![hqdefault](https://github.com/user-attachments/assets/dfb04275-08a7-4d66-b4cf-76f44fecc5a5)
+
+var myVar = "Hello, world!";
+
