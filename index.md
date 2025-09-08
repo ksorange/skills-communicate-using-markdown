@@ -11,4 +11,7 @@ Ep so, dees offurtunity meebi for you. If dis sounds interesting, please emel us
 var myVar = "≽^•⩊•^≼ hello! I am here to commit genocide";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
