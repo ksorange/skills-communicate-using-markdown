@@ -1,4 +1,5 @@
 <header>
+<img width="3780" height="1890" alt="White Minimalist Simple Coming Soon Banner" src="https://github.com/user-attachments/assets/b149061d-b2a6-4528-a907-b625bd26e6b2" />
 
 <!--
   <<< Author notes: Course header >>>
