@@ -66,10 +66,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 # ₊˚⊹♡🍰🍓♡⊹˚₊ yahallo
-### Hi. I'm Lynn from Las Vegas--Models.
-### We're hiring new promohtional mowdels to work in Las Vegas, Yuwezay.
-### Are you etin to tweynty-one yirs old? Do you have gewd englis iskillz? A plising personality and a desire for an exciting new life?
-### Ep so, dees offurtunity meebi for you. If dis sounds interesting, please emel us, so we can arenz a personal enterview.
+Hi. I'm Lynn from Las Vegas--Models.
+We're hiring new promohtional mowdels to work in Las Vegas, Yuwezay.
+Are you etin to tweynty-one yirs old? Do you have gewd englis iskillz? A plising personality and a desire for an exciting new life?
+Ep so, dees offurtunity meebi for you. If dis sounds interesting, please emel us, so we can arenz a personal enterview.
 ### Tengs.
 
 <footer>
