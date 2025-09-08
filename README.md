@@ -1,4 +1,5 @@
 <header>
+<img width="3780" height="1890" alt="White Minimalist Simple Coming Soon Banner" src="https://github.com/user-attachments/assets/b149061d-b2a6-4528-a907-b625bd26e6b2" />
 
 <!--
   <<< Author notes: Course header >>>
@@ -29,6 +30,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 
 1. Click **Merge pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
 
 <footer>
 
